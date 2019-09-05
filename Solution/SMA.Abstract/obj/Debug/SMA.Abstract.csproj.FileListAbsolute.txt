@@ -1,0 +1,4 @@
+C:\Developement\R&D\syntec\Solution\SMA.Abstract\bin\Debug\SMA.Abstract.dll
+C:\Developement\R&D\syntec\Solution\SMA.Abstract\bin\Debug\SMA.Abstract.pdb
+C:\Developement\R&D\syntec\Solution\SMA.Abstract\obj\Debug\SMA.Abstract.dll
+C:\Developement\R&D\syntec\Solution\SMA.Abstract\obj\Debug\SMA.Abstract.pdb

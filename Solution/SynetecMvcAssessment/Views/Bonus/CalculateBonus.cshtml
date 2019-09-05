@@ -1,0 +1,13 @@
+﻿@model InterviewTestTemplatev2.Models.BonusViewModel
+@{
+    ViewBag.Title = "Caclulate";
+}
+
+<h2>Bonus Pool Allocation</h2>
+
+@Html.TextBoxFor(x => x.FullName)
+@Html.TextBoxFor(x => x.BonusPoolAllocationPerc)
+
+
+@Html.ActionLink("Click her to calculate for another employee", "Index")
+

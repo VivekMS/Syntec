@@ -1,2 +1,0 @@
-# Syntec
-Test
